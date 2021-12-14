@@ -17,7 +17,7 @@ import java.util.Calendar;
 
 public class Member {
     
-    /** members_id，會員編號 */
+    /** id，會員編號 */
     private int id;
     
     /** email，會員電子郵件信箱 */
